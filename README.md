@@ -1,6 +1,6 @@
 # MySQL-Workbench-night-mode-CSS
 We are gona learn how to put MySQLWorkbench in night mode with CSS
-![imagen](https://user-images.githubusercontent.com/92693005/223270313-0b906593-b23a-4a46-addc-cea7ac30015f.png)
+![imagen](C:\Users\landa\Downloads\MySQLWorkbench.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
